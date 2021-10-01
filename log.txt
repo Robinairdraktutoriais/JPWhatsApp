@@ -2,10 +2,10 @@
 <p>JPWHATSAPP V4</p>
 
 
-<l>bomb text</li>
-<l>bomb ios</li>
-<l>funções de imunidade</li>
-<l>imunidade</li>
-<l>rajada de ios</li>
+<l> bomb text.</li>
+<l> bomb ios.</li>
+<l> funções de imunidade.</li>
+<l> imunidade.</li>
+<l> rajada de ios.</li>
 ","url":"https://jpwhatsapp5.webnode.com"
 }
