@@ -2,10 +2,13 @@
 <p>JPWHATSAPP V4</p>
 
 
-<l> bomb text.</li>
-<l> bomb ios.</li>
-<l> funções de imunidade.</li>
-<l> imunidade.</li>
-<l> rajada de ios.</li>
+Versão atualizada para 2.21.11.17
+
+
+
+New version Update tô 2.21.11.17
+
+
+
 ","url":"https://jpwhatsapp5.webnode.com"
 }
