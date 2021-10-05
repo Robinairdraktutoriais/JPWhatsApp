@@ -1,5 +1,5 @@
 {"version_code":211117007,"content":"
-<p>JPWHATSAPP V4</p>
+<p> JPWHATSAPP V4</p>
 
 
 <li> Versão atualizada para 2.21.11.17.</li>
