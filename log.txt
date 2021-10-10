@@ -4,7 +4,6 @@
 
 <li> corrigido botão de anti lag na conversa.</li>
 
-<li> quando ativar o botão irá ficar imune a trava crash grupo.</li>
 
 ","url":"https://jpwhatsapp5.webnode.com"
 }
