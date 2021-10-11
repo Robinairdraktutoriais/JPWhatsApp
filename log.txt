@@ -1,9 +1,0 @@
-{"version_code":211117007,"content":"
-<p> JPWHATSAPP V4</p>
-
-
-<li> corrigido botão de anti lag na conversa.</li>
-
-
-","url":"https://jpwhatsapp5.webnode.com"
-}
