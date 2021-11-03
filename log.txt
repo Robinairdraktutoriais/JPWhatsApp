@@ -1,0 +1,24 @@
+{"version_code":211921005,"content":"
+<p>𝐉𝐏𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐕5</p>
+
+
+<l>Nova Versão Atualizada para 2.21.19.21</li>
+
+
+<li>ADICIONADO</li>
+
+
+<l>imune a trava crash grupo</li>
+
+
+<l>insta-tick</li>
+
+
+<l>botao de receber mensagens em aguarde</li>
+
+
+<l>botao - PaymentMethod</li>
+
+
+","url":"https://jpwhatsapp5.webnode.com"
+}
