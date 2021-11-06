@@ -8,16 +8,10 @@
 <li>ADICIONADO.</li>
 
 
-<l>imune a trava crash grupo.</li>
+<l>corrigido os tickets não aparecer.</li>
 
 
-<l>insta-tick.</li>
-
-
-<l>botao de receber mensagens em aguarde.</li>
-
-
-<l>botao - PaymentMethod.</li>
+<l>botão para ficar imune a trava crash grupo.</li>
 
 
 ","url":"https://jpwhatsapp5.webnode.com"
