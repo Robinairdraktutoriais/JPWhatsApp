@@ -5,10 +5,13 @@
 <l>Nova Versão Atualizada para 2.21.19.21</li>
 
 
+<li>CORRIGIDO.</li>
+
+
+<l>os tickets não aparecer.</li>
+
+
 <li>ADICIONADO.</li>
-
-
-<l>corrigido os tickets não aparecer.</li>
 
 
 <l>botão para ficar imune a trava crash grupo.</li>
