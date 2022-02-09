@@ -1,20 +1,14 @@
-{"version_code":211921005,"content":"
-<p>𝐉𝐏𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐕5</p>
+{"version_code":220273004,"content":"
+<p>𝐉𝐏𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐕6</p>
 
 
-<l>Nova Versão Atualizada para 2.21.19.21</li>
+<l>Nova Versão Atualizada para 2.22.2.73</li>
 
 
-<li>CORRIGIDO.</li>
+<li>em breve.</li>
 
 
-<l>os tickets não aparecer.</li>
-
-
-<li>ADICIONADO.</li>
-
-
-<l>botão para ficar imune a trava crash grupo.</li>
+<l>aguarde.</li>
 
 
 ","url":"https://jpwhatsapp5.webnode.com"
